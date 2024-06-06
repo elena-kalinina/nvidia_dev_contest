@@ -1,0 +1,4 @@
+nvidia_api_key: "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"
+spotipy_client_id: "ad533187728d40549b6539ad322d782a"
+spotipy_clien_secret: "ca17a491f8ef477ea21c01f6a8f31957"
+spotipy_redirect_uri: "http://localhost:8000"
