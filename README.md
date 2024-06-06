@@ -14,10 +14,10 @@ Sometimes you see a cute outfit, but you want it to be adapted to some other cir
     pip install -r requirements.txt      
 ```
 - Get NVIDIA API key
-  Register here https://build.nvidia.com/explore/discover and click on the model of your choice. You should see the button "Get API Key" in code examples. 
+  Register here https://build.nvidia.com/explore/discover and click on the model of your choice. You should see the button "Get API Key" in code examples. Add the API key to the agent_config.yml file. 
 
 - Get Spotify access credentials
-  Follow the instructions here https://developer.spotify.com/documentation/web-api. It is likely that to be able to use the Spotify player in this agent you will need a Premium account. 
+  Follow the instructions here https://developer.spotify.com/documentation/web-api. Add the credentials to the agent_config.yml file.  It is likely that to be able to use the Spotify player in this agent you will need a Premium account. 
 
 - To run the Vibe agent:
 
