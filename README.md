@@ -30,4 +30,4 @@ Sometimes you see a cute outfit, but you want it to be adapted to some other cir
       python fashion_agent.py 
 ```
 
-Place your photos in 'data' folder. In the app, indicate the image file name together with the folder, e.g. 'data/my_image.jpg'.  
+Place your photos in 'data' folder. In the app, indicate the image file name together with the folder, e.g. 'data/my_image.jpg'.  Generated image that the fashion agent outpus will be saved in your root directory.
