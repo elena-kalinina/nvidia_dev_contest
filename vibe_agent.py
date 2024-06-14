@@ -22,7 +22,7 @@ with open('agent_config.yml', 'r') as yfile:
     keys = yaml.safe_load(yfile)
 
 os.environ["NVIDIA_API_KEY"] = keys["nvidia_api_key"]
-os.environ["SPOTIPY_CLIENT_ID"] = keys["spotify_client_id"]
+os.environ["SPOTIPY_CLIENT_ID"] = keys["spotipy_client_id"]
 os.environ["SPOTIPY_CLIENT_SECRET"] = keys["spotipy_client_secret"]
 os.environ["SPOTIPY_REDIRECT_URI"] = keys["spotipy_redirect_url"]
 

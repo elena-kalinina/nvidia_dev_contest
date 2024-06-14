@@ -1,4 +1,4 @@
 nvidia_api_key: YOUR_KEY
 spotipy_client_id: YOUR_CLIENT_ID
 spotipy_client_secret: YOUR_CLIENT_SECRET
-spotipy_redirect_uri: YOUR_REDIRECT_URL
+spotipy_redirect_url: YOUR_REDIRECT_URL
